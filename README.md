@@ -21,31 +21,31 @@ The notebook covers:
 
 Example Results
 1. Correlation Heatmap
-[Heatmap](HeatMap.png)
+![Heatmap](HeatMap.png)
 Shows relationships between features in the dataset. Correlation Heatmap
 
 2. Model Performance Bar Plot
-[Mode_Comparison_BarGraph](BarGraph.png)
+![Mode_Comparison_BarGraph](BarGraph.png)
 Comparison of accuracy, precision, recall, and F1-score for KNN, Decision Tree, Naive Bayes, and Random Forest. Model Performance Bar Plot
 
 3. Box Plots for Model Metrics
 
 Visualizes the distribution of metrics for each model. 
-[KNN_Box_Plot](KNN_Box_Plot.png)
+![KNN_Box_Plot](KNN_Box_Plot.png)
 KNN Box Plot 
 
-[Decision_Tree_Box_Plot](Decision_Tree_Box_Plot.png)
+![Decision_Tree_Box_Plot](Decision_Tree_Box_Plot.png)
 Decision Tree Box Plot 
 
-[Naive_Bayes_box_Plot](Decision_Tree_Box_Plot.png)
+![Naive_Bayes_box_Plot](Decision_Tree_Box_Plot.png)
 Naive Bayes Box Plot 
 
-[Random_Forest_Box_Plot](Random_Forest_Box_Plot.png)
+![Random_Forest_Box_Plot](Random_Forest_Box_Plot.png)
 Random Forest Box Plot
 
 4. Radar Chart
 Overall comparison of models across all metrics. 
-[Radar_Chart](Radar_Chart.png)
+![Radar_Chart](Radar_Chart.png)
 Radar Chart
 
 ## Author
