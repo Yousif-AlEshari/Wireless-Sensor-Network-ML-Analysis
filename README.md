@@ -32,20 +32,25 @@ Comparison of accuracy, precision, recall, and F1-score for KNN, Decision Tree, 
 
 Visualizes the distribution of metrics for each model. 
 ![KNN_Box_Plot](KNN_Box_Plot.png)
+
 KNN Box Plot 
 
 ![Decision_Tree_Box_Plot](Decision_Tree_Box_Plot.png)
+
 Decision Tree Box Plot 
 
 ![Naive_Bayes_box_Plot](Decision_Tree_Box_Plot.png)
+
 Naive Bayes Box Plot 
 
 ![Random_Forest_Box_Plot](Random_Forest_Box_Plot.png)
+
 Random Forest Box Plot
 
 4. Radar Chart
 Overall comparison of models across all metrics. 
 ![Radar_Chart](Radar_Chart.png)
+
 Radar Chart
 
 ## Author
